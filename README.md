@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 
 ### Contact
 For any inquiries or support, please contact:
-***Name:*** Raju
-***Email:*** mailraju1406@gmail.com
+***Name:*** Jafer Ali
+***Email:*** skjaferali8@gmail.com.com
 
 
